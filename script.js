@@ -70,7 +70,7 @@ function reset() {
 }
 
 
-// Event listeners for keyboard input and the reset button:
+// Event listeners for keyboard input, key press and the reset button:
 
 testArea.addEventListener("keypress", start, false);
 
